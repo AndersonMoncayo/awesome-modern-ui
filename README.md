@@ -6,7 +6,7 @@ Una colección cuidadosamente investigada y seleccionada con las mejores librer�
 
 ## Categorías
 
-*Haz clic en cualquier categoría para desplegar su contenido.*
+*Haz clic en cualquier categoría para contraer su contenido.*
 
 <details open>
 <summary><h1>Librerías de Componentes y UI</h1></summary>
