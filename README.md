@@ -365,6 +365,11 @@ Una colección cuidadosamente investigada y seleccionada con las mejores librer�
       Contexto experto instantáneo para la IA. Pegas las reglas exactas de tu framework para que la IA de Cursor programe usando las mejores convenciones actuales sin cometer errores novatos.
     </td>
     <td width="50%" valign="top">
+      <a href="https://icons0.dev/">
+        <img src="https://image.thum.io/get/width/400/crop/600/https://icons0.dev/" alt="Icons0 Preview" width="100%">
+      </a><br><br>
+      <b><a href="https://icons0.dev/">Icons0</a></b><br>
+      Colección masiva de íconos gratuitos en formato SVG listos para copiar y pegar. Indispensable para mantener una coherencia visual limpia en tus proyectos sin depender de librerías pesadas.
     </td>
   </tr>
 </table>
