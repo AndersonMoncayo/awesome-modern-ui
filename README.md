@@ -134,6 +134,11 @@ Una colección cuidadosamente investigada y seleccionada con las mejores librer�
       Minimalismo sobrio basado en Tailwind, enfocado exclusivamente en usabilidad interna sin animaciones excesivas que distraigan.
     </td>
     <td width="50%" valign="top">
+      <a href="https://21st.dev/">
+        <img src="https://image.thum.io/get/width/400/crop/600/https://21st.dev/" alt="21st.dev Preview" width="100%">
+      </a><br><br>
+      <b><a href="https://21st.dev/">21st.dev</a></b><br>
+      El "npm" para ingenieros de diseño. Un ecosistema masivo donde la comunidad publica micro-componentes premium de React y Tailwind listos para tu app.
     </td>
   </tr>
 </table>
@@ -295,6 +300,17 @@ Una colección cuidadosamente investigada y seleccionada con las mejores librer�
       </a><br><br>
       <b><a href="https://www.opendesign.cc/">Open Design</a></b><br>
       Democratización de recursos editables. Sumamente útil para prototipar rápido aprendiendo y destripando archivos fuente de calidad profesional.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://calltoinspiration.com/">
+        <img src="https://image.thum.io/get/width/400/crop/600/https://calltoinspiration.com/" alt="Call To Inspiration Preview" width="100%">
+      </a><br><br>
+      <b><a href="https://calltoinspiration.com/">Call To Inspiration</a></b><br>
+      Directorio hiper-focalizado. Te permite buscar inspiración por componentes visuales específicos (como modales de login, footers, popups) para destrabar tu creatividad.
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
